@@ -1,0 +1,8 @@
+{
+    "name": "cornernote/yii2-ace-admin",
+    "autoload": {
+        "psr-4": {
+            "cornernote\\aceadmin\\": ""
+        }
+    }
+}
