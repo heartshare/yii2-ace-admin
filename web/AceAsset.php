@@ -17,6 +17,7 @@ class AceAsset extends AssetBundle
     ];
     public $js = [
         'js/ace.js',
+        'js/yii.js',
     ];
     public $depends = [
         'cornernote\aceadmin\web\AceExtraAsset',
