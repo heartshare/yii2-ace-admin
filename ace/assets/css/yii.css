@@ -34,6 +34,11 @@ button.btn:active {
     font-weight: bold;
 }
 
+.required label.checkbox-inline,
+.required label.radio-inline {
+    font-weight: normal;
+}
+
 .tab-content {
     margin-bottom: 20px;
 }
