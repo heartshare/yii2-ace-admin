@@ -16,6 +16,7 @@ class AceAsset extends AssetBundle
         'css/yii.css',
     ];
     public $js = [
+        'js/ace-elements.js',
         'js/ace.js',
         'js/yii.js',
     ];
