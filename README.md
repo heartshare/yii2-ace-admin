@@ -14,10 +14,7 @@ Add the following to your `composer.json`:
 {
     "require": {
         "cornernote/yii2-ace-admin": "dev-master"
-    },
-    "repositories": [
-        {"type": "vcs", "url": "git@bitbucket.org:cornernote/yii2-ace-admin.git"}
-    ]
+    }
 }
 ```
 
