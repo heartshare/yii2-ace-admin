@@ -1,13 +1,9 @@
 # Yii2 Ace Admin
 
+
 ## Ace Admin
 
 Version 1.3.3
-
-(Purchase)[https://wrapbootstrap.com/theme/ace-responsive-admin-template-WB0B30DGR]
-
-(Preview)[http://responsiweb.com/themes/preview/ace/]
-
 
 
 ## Installation
