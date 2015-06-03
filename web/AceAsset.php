@@ -16,11 +16,10 @@ class AceAsset extends AssetBundle
         'css/yii.css',
     ];
     public $js = [
-        'js/ace-extra.js',
         'js/ace.js',
-        'js/yii.js',
     ];
     public $depends = [
+        'cornernote\aceadmin\web\AceExtraAsset',
         'rmrevin\yii\fontawesome\AssetBundle',
         'yii\web\YiiAsset',
         'yii\bootstrap\BootstrapPluginAsset',
