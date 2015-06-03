@@ -1,6 +1,6 @@
 <?php
 use yii\widgets\Breadcrumbs;
-use dmstr\widgets\Alert;
+use cornernote\aceadmin\widgets\Alert;
 
 /* @var $this \yii\web\View */
 /* @var $content string */
