@@ -22,6 +22,10 @@ ul.nav, ol.nav {
     border-bottom-width: 1px;
 }
 
+.table-hover > tbody > tr:hover {
+    background-color: #FFFCDA;
+}
+
 .btn-group > .btn > .caret {
     margin-top: 0;
 }
